@@ -40,5 +40,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ciasharmma&theme=radical) 
 
 
-### Top Languages:
+### Top Languages: 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ciasharmma&layout=compact&theme=radical)
