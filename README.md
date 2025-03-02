@@ -3,7 +3,7 @@
 <h3 align="center"> Growing Developer || Java Developer</h3>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img  src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile. " />
-</p>
+</p> 
  
 #   
  
